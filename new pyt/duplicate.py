@@ -1,6 +1,6 @@
 l1=[1,2,3,3,4,5,6,4,2]
-dup=[]
+dupli=[]
 for i in l1:
-    if i not in dup:
-        dup.append(i)
-print(dup)
+    if i not in dupli:
+        dupli.append(i)
+print(dupli)
