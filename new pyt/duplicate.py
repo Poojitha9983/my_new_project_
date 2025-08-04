@@ -4,3 +4,5 @@ for i in l1:
     if i not in duplicate:
         duplicate.append(i)
 print(duplicate)
+print(hai poojitha)
+print(hello pooja)
